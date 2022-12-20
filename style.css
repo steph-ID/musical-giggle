@@ -2,24 +2,47 @@ body {
     margin: 0;
     padding: 0;
 }
-.container {
+.index-container {
     background-color: #23252c;
     width: 600px;
     margin: 44px auto;
     color: #fff;
 }
-.link {
+.index-link {
     background-color: #555;
     width: 100%;
     height: 50px;
     margin: 44px auto;
     color: #fff;
 }
-.link a {
+.index-link a {
+    color: #fff;
+}
+.index-text {
+    background-color: #ededed;
+    width: 100%;
+    height: 150px;
+    padding: 44px;
+    color: #000;
+}
+.page-container {
+    background-color: #082D0F;
+    width: 600px;
+    margin: 44px auto;
+    color: #fff;
+}
+.page-link {
+    background-color: #5E807F;
+    width: 100%;
+    height: 50px;
+    margin: 44px auto;
+    color: #fff;
+}
+.page-link a {
     color: #fff;
 }
 .page-text {
-    background-color: #ededed;
+    background-color: #9DC5BB;
     width: 100%;
     height: 150px;
     padding: 44px;
