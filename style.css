@@ -1,3 +1,6 @@
+* {
+    box-sizing: border-box;
+}
 body {
     margin: 0;
     padding: 0;
@@ -6,6 +9,7 @@ body {
     background-color: #23252c;
     width: 600px;
     margin: 44px auto;
+    padding: 44px;
     color: #fff;
 }
 .index-link {
@@ -29,6 +33,7 @@ body {
     background-color: #082D0F;
     width: 600px;
     margin: 44px auto;
+    padding: 44px;
     color: #fff;
 }
 .page-link {
